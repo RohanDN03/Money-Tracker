@@ -34,8 +34,9 @@ app.use(
   cors({
     origin: function (origin, callback) {
       const allowedOrigins = [
-        "http://localhost:5173",
-        "http://localhost:5176"
+        "https://money-tracker-ashen-eight.vercel.app", // your deployed frontend
+        "http://localhost:5173",                        // (optional) for local dev
+        "http://localhost:5176" 
       ];
       // Allow requests with no origin (like mobile apps, curl, etc.)
       if (!origin || allowedOrigins.includes(origin)) {
