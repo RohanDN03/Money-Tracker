@@ -6,9 +6,6 @@ This web application allows users to securely log in, track their income and exp
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Click here to try it live](https://money-tracker-ashen-eight.vercel.app)
 
 ## 🚀 Features
 
