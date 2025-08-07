@@ -6,6 +6,10 @@ This web application allows users to securely log in, track their income and exp
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to try it live](https://money-tracker-ashen-eight.vercel.app)
+
 ## 🚀 Features
 
 ✅ **User Authentication**
@@ -45,6 +49,8 @@ This web application allows users to securely log in, track their income and exp
 | JWT            | User authentication                |
 | XLSX.js        | Excel export support               |
 -------------------------------------------------------
+
+
 <img width="1432" alt="Screenshot 2025-06-25 at 7 51 12 PM" src="https://github.com/user-attachments/assets/d778505e-2b26-4a6b-b576-22c8daa5f5e5" />
 <img width="1438" alt="Screenshot 2025-06-25 at 8 08 30 PM" src="https://github.com/user-attachments/assets/7d62ca7c-bffb-479f-ad1f-5f2af38e8933" />
 <img width="1437" alt="Screenshot 2025-06-25 at 7 54 56 PM" src="https://github.com/user-attachments/assets/c1548494-516b-445f-a0e7-9ce4a3c2e474" />
@@ -54,22 +60,6 @@ This web application allows users to securely log in, track their income and exp
 <img width="1437" alt="Screenshot 2025-06-25 at 8 03 27 PM" src="https://github.com/user-attachments/assets/76340c79-ae9b-4929-b75c-43ab97c8279d" />
 <img width="1431" alt="Screenshot 2025-06-25 at 8 03 39 PM" src="https://github.com/user-attachments/assets/81477087-550b-4e19-b3b6-b288c38c4781" />
 <img width="1436" alt="Screenshot 2025-06-25 at 8 04 01 PM" src="https://github.com/user-attachments/assets/5480e05d-c259-4d0f-85df-c7a8274f4039" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
